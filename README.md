@@ -1,6 +1,6 @@
 # 💰 Loan Risk Analysis Dashboard
 
-![Dashboard Preview](dashboard/Screenshot 2026-08-23 012143.png)
+![Dashboard Preview](dashboard/Screenshot%202026-08-23%20012143.png)
 
 <div align="center">
 

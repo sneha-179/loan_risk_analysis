@@ -10,7 +10,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**An end-to-end analytics project uncovering what actually drives loan approval decisions — from raw, messy data to a live, interactive business dashboard.**
+**An end-to-end analytics project uncovering what actually drives loan approval decisions from raw, messy data to a live, interactive business dashboard.**
 
 </div>
 
